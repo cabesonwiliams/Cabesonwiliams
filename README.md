@@ -8,7 +8,8 @@
 
 #### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabesonwiliams)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabesonwiliams&show_icons=true&theme=radical)
+
 
 
   God Above All 💙
